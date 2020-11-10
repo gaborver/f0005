@@ -1,4 +1,4 @@
-jelszó = 'zyul'
+jelszó = 'nyul'
 tipp = input('Mi a jelszó? ')
 if tipp == jelszó:
     print('Bemehet.')
