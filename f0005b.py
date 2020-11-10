@@ -1,4 +1,4 @@
-jelszó = '(*Kk34=('
+jelszó = 'zyul'
 tipp = input('Mi a jelszó? ')
 if tipp == jelszó:
     print('Bemehet.')
